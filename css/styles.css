@@ -30,6 +30,7 @@ html{
 .feature-img{
   text-align: center;
   margin-top: 30px;
+  
 }
 
 /* Biografia */
@@ -71,7 +72,9 @@ html{
 }
 
 .curiosites-container li{
-  height: 30px;
+  height: 100%;
+  padding: 5%;
+
 }
 
 /* Img bold */
